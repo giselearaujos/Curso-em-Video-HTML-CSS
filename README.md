@@ -15,5 +15,4 @@
   <li>🚧 Em processo 🚧</li>
 </ul>
 <h2>Autor</h2>
-<hr>
 <h3><a href="https://www.linkedin.com/in/gisele-araujo-silva/">Gisele Araujo Silva</a></h3>
