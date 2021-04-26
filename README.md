@@ -3,6 +3,7 @@
 <p align='center'>Curso disponibilizado pelo professor 👨‍🏫 Gustavo Guanabara no canal do 🎥 youtube Curso em Vídeo ❤️</p>  
 
 <h3>Status do Curso:</h3>
+<hr>
 <h4> 🎯 Módulo I</h4> 
 <ul>  
   <li>👍 Exércios</li>
@@ -14,4 +15,5 @@
   <li>🚧 Em processo 🚧</li>
 </ul>
 <h2>Autor</h2>
+<hr>
 <h3><a href="https://www.linkedin.com/in/gisele-araujo-silva/">Gisele Araujo Silva</a></h3>
